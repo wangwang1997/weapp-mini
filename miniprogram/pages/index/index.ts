@@ -13,5 +13,8 @@ Page({
         message
       })
     })
+  },
+  redirect() {
+    wx.redirectTo({url:'/pages/login/login'})
   }
 })

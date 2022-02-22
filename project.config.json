@@ -5,7 +5,7 @@
   },
   "miniprogramRoot": "miniprogram/",
   "compileType": "miniprogram",
-  "projectname": "weapp-demo-2022",
+  "projectname": "weapp",
   "setting": {
     "urlCheck": false,
     "es6": true,

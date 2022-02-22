@@ -1,0 +1,8 @@
+<!--pages/login/login.wxml-->
+<view class="page">
+  <view>Welcom，{{ user }}</view>
+  <view class="container-card">
+  
+  </view>
+</view>
+
